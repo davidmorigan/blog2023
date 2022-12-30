@@ -1,7 +1,7 @@
 ---
 title: 'Dynamic Routing and Static Generation'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover2.jpeg'
+coverImage: '/assets/blog/dynamic-routing/cover2.jpg'
 date: '2023-01-01T20:30:00.322Z'
 author:
   name: David Mora Gandarillas

@@ -5,7 +5,7 @@ coverImage: '/assets/blog/dynamic-routing/cover2.jpg'
 date: '2023-01-01T20:30:00.322Z'
 author:
   name: David Mora Gandarillas
-  picture: '/assets/blog/authors/jj.jpeg'
+  picture: '/assets/blog/authors/logoSmallCropped.jpg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---

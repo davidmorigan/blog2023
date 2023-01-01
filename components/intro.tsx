@@ -7,7 +7,7 @@ const Intro = () => {
         Davidmorigan.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A product leader passionated about innovation.
+        Unleashing the power of product innovation to scale startups.
       </h4>
     </section>
   )

@@ -45,7 +45,6 @@ const Alert = ({ preview }: Props) => {
       </Container> 
       
     </div>
-    
   )
 }
 

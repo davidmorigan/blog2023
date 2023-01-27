@@ -1,13 +1,13 @@
-//import Alert from './alert'
+import Alert from './alert'
 import Footer from './footer'
 import Meta from './meta'
 
 type Props = {
-  //preview?: boolean
+  preview?: boolean
   children: React.ReactNode
 }
 
-const Layout = ({ children }: Props) => { //removed preview, from { preview, children }
+const Layout = ({ preview, children }: Props) => { 
   return (
     <>
       <Meta />

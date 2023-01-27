@@ -43,9 +43,8 @@ const Alert = ({ preview }: Props) => {
           )}
         </div>
       </Container> 
-      
     </div>
-  )
+    )
 }
 
 export default Alert

@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-"Hello and welcome to my professional page! My name is David Mora and I am a seasoned product manager with over 9 years of experience in the industry. I have had the opportunity to work on a wide range of B2B products across various industries and have gained valuable insights and experiences along the way.
+"Hello and welcome to my professional page! My name is David Mora and I am a seasoned product manager with over 10 years of experience in the industry. I have had the opportunity to work on a wide range of B2B products across various industries and have gained valuable insights and experiences along the way.
 
 As a product leader, I believe that a people-focused strategy is key to driving dynamic product success. I am committed to leading with a strong focus on the needs and desires of our customers and stakeholders, and I have a track record of using a dynamic approach to drive product excellence. If you would like to chat more about product management or have any questions, please don't hesitate to reach out. Thank you for visiting my page."
 

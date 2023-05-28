@@ -16,12 +16,11 @@ Some thoughts I had to get out of my mind after a good conversation I had last w
 I kind of had 3 possible answers in my head:
 
 1)Well, because it is what I have been doing for almost 15 years, so why change now?
+
 2)Because it is just now, after all these years, that I start getting to understand what I do well, so let's keep going. 
+
 3)Because I am hooked on the adrenaline that working with founders and startups gives you.
-a
--Well, because it is what I have been doing for almost 15 years, so why change now?
--Because it is just now, after all these years, that I start getting to understand what I do well, so let's keep going. 
-- Because I am hooked on the adrenaline that working with founders and startups gives you.
+
 
 The reality is a mix of the three answers above, but the main reason is working so closely with founders has given me a career path and growth driven by pure PASSION. A Founder is so invested on many levels in his project that he indirectly sells it to you every day through his actions, and for me, that is key to recharging and keep solving problems and pushing myself with high levels of energy and involvement. It gives you purpose, so everything else that comes next, the basic product responsibilities (user interviews, road mapping, stakeholder management, sprint management…), becomes much easier.
 

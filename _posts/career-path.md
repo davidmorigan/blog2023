@@ -1,5 +1,5 @@
 ---
-title: 'Product career driven by entrepreneurship and founders' passion'
+title: 'Product career driven by entrepreneurship and founder passion'
 excerpt: 'I haven't found the same level of passion and excitement in shaping products as I have when working with startups and founders. Many years ago, I chose a career path that I am truly proud of'
 coverImage: '/assets/blog/dynamic-routing/cover4.jpg'
 date: '2022-01-01T20:25:00.322Z'

@@ -2,7 +2,7 @@
 title: 'Product career driven by entrepreneurship and founder passion'
 excerpt: '"I have not found the same level of passion and excitement in shaping products as I have when working with startups and founders. Many years ago, I chose a career path that I am truly proud of"'
 coverImage: '/assets/blog/dynamic-routing/cover4.jpg'
-
+date: '2023-06-01T20:25:00.322Z'
 author:
   name: David Mora Gandarillas
   picture: '/assets/blog/authors/logoSmallCropped.jpg'

@@ -11,7 +11,7 @@ ogImage:
 ---
 ## Product career driven by entrepreneurship and founders' passion
 
-Some thoughts I had to get out of my mind after a good conversation I had last week with a good friend who challenged a little bit my career path, so: David, why startups and scale-ups and not a less chaotic big corporation?
+Some thoughts I had to get out of my mind after a good conversation I had last week with a good friend who challenged a little bit my career path, so: _David, why startups and scale-ups and not a less chaotic big corporation?_
 
 I kind of had 3 possible answers in my head:
 

@@ -4,7 +4,7 @@ const Navigation = () => {
   return (
     <nav className="flex gap-4">
       <Link href="/" className="text-lg font-semibold hover:underline">
-        Blog
+        Home
       </Link>
       <Link href="/impact" className="text-lg font-semibold hover:underline">
         Impact

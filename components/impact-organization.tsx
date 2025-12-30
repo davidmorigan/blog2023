@@ -8,10 +8,11 @@ type Props = {
   description: string
   icon: string
   profileUrl: string
+  memberSince?: string
   stats: Stat[]
 }
 
-const ImpactOrganization = ({ name, description, icon, profileUrl, stats }: Props) => {
+const ImpactOrganization = ({ name, description, icon, profileUrl, memberSince, stats }: Props) => {
   return (
     <div className="bg-white border border-gray-200 rounded-lg p-8 shadow-sm hover:shadow-md transition-shadow duration-200">
       <div className="flex items-start justify-between mb-4">
@@ -20,6 +21,11 @@ const ImpactOrganization = ({ name, description, icon, profileUrl, stats }: Prop
           <div>
             <h3 className="text-2xl font-bold mb-1">{name}</h3>
             <p className="text-gray-600">{description}</p>
+            {memberSince && (
+              <p className="text-sm text-gray-500 mt-1">
+                {name === 'charity: water' ? 'Donating since ' : 'Member since '}{memberSince}
+              </p>
+            )}
           </div>
         </div>
       </div>

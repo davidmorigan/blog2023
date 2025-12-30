@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Navigation from './navigation'
 
 const Header = () => {
   return (
@@ -8,14 +9,7 @@ const Header = () => {
           //davidmorigan
         </Link>
       </h2>
-      <nav className="flex gap-4">
-        <Link href="/" className="text-lg font-semibold hover:underline">
-          Blog
-        </Link>
-        <Link href="/impact" className="text-lg font-semibold hover:underline">
-          Impact
-        </Link>
-      </nav>
+      <Navigation />
     </header>
   )
 }

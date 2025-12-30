@@ -25,8 +25,8 @@ const ImpactOrganization = ({ name, description, icon, profileUrl, stats }: Prop
       </div>
 
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mt-6">
-        {stats.map((stat, index) => (
-          <div key={index} className="bg-gray-50 rounded p-4">
+        {stats.map((stat) => (
+          <div key={stat.label} className="bg-gray-50 rounded p-4">
             <div className="text-2xl font-bold text-gray-900 mb-1">
               {typeof stat.value === 'number' ? stat.value.toLocaleString() : stat.value}
             </div>

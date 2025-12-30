@@ -37,9 +37,9 @@ const ImpactStats = ({ totalImpact }: Props) => {
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
-      {stats.map((stat, index) => (
+      {stats.map((stat) => (
         <div
-          key={index}
+          key={stat.label}
           className={`${stat.color} rounded-lg p-6 text-center shadow-md transform transition duration-200 hover:scale-105`}
         >
           <div className="text-4xl mb-2">{stat.icon}</div>

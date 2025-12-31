@@ -44,6 +44,7 @@ export default function Impact() {
                 description={impactData.kiva.description}
                 icon={impactData.kiva.icon}
                 profileUrl={impactData.kiva.profileUrl}
+                memberSince={impactData.kiva.memberSince}
                 stats={[
                   { label: 'Loans Supported', value: impactData.kiva.stats.loansSupported },
                   { label: 'Total Loaned', value: `$${impactData.kiva.stats.totalLoaned}` },
@@ -56,9 +57,11 @@ export default function Impact() {
                 description={impactData.shareTheMeal.description}
                 icon={impactData.shareTheMeal.icon}
                 profileUrl={impactData.shareTheMeal.profileUrl}
+                memberSince={impactData.shareTheMeal.memberSince}
                 stats={[
-                  { label: 'Meals Shared', value: impactData.shareTheMeal.stats.mealsShared },
-                  { label: 'Children Helped', value: impactData.shareTheMeal.stats.childrenHelped },
+                  { label: 'Meals Donated', value: impactData.shareTheMeal.stats.mealsShared },
+                  { label: 'Goals Achieved', value: impactData.shareTheMeal.stats.goalsAchieved },
+                  { label: 'Countries Reached', value: impactData.shareTheMeal.stats.countriesReached },
                 ]}
               />
 
@@ -67,6 +70,7 @@ export default function Impact() {
                 description={impactData.treeNation.description}
                 icon={impactData.treeNation.icon}
                 profileUrl={impactData.treeNation.profileUrl}
+                memberSince={impactData.treeNation.memberSince}
                 stats={[
                   { label: 'Trees Planted', value: impactData.treeNation.stats.treesPlanted },
                   { label: 'CO₂ Offset', value: `${impactData.treeNation.stats.co2Offset} kg` },
@@ -78,6 +82,7 @@ export default function Impact() {
                 description={impactData.charityWater.description}
                 icon={impactData.charityWater.icon}
                 profileUrl={impactData.charityWater.profileUrl}
+                memberSince={impactData.charityWater.memberSince}
                 stats={[
                   { label: 'Donations', value: impactData.charityWater.stats.donations },
                   { label: 'People Served', value: impactData.charityWater.stats.peopleServed },
